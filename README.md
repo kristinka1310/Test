@@ -15,5 +15,5 @@ This is list:
  ```javascript
    let str = "this is code";
 ```
-![this is link](https://github.com/)
+[this is link](https://github.com/)
 ![this is img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHyuZZGRjOhYck0VahveqAhsM64gGvkuMBwOgCXvPfVOZ3na6H6dv15Y&s=10)
